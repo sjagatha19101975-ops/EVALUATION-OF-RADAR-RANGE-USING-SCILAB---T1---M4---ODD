@@ -51,6 +51,7 @@ Where:
 
 
 ## Result
-Thus, the maximum range of radar system using radar range equation is verified.
+<img width="1280" height="774" alt="image" src="https://github.com/user-attachments/assets/07eb8764-78ef-48d0-99f7-4d272e27708c" />
+
 
 
