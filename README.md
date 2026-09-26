@@ -45,6 +45,10 @@ Where:
 ## Output
 <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/c1f64fac-7f13-4060-9ff8-e265a78a814b" />
 
+## MARK SPLIT UP 
+
+<img width="1280" height="703" alt="WhatsApp Image 2026-09-26 at 10 49 55 AM" src="https://github.com/user-attachments/assets/d5fb839a-cf48-42b6-96eb-f4d09db962cd" />
+
 
 ## Result
 Thus, the maximum range of radar system using radar range equation is verified.
